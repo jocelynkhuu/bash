@@ -1,3 +1,5 @@
+# Short script for adding single printer using IP address on Mac
+
 #!/bin/bash
 
 PRINTER_NAME="NAME_OF_PRINTER"
