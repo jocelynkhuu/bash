@@ -1,6 +1,7 @@
+#!/usr/bin/env bash
+
 # Short script for adding single printer using IP address on Mac
 
-#!/bin/bash
 
 PRINTER_NAME="NAME_OF_PRINTER"
 PRINTER_LOCATION="LOCATION_OF_PRINTER"
