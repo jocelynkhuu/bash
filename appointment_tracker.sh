@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Script to pop up a dialog box once a week to track dates for appointments in a txt file.
+# Script to pop up a dialog box once a week to track dates for appointments in a csv file.
 
 scriptPath='/Users/Shared/askdate.sh'
 
